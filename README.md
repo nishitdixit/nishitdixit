@@ -1,6 +1,6 @@
-### Hi, I'm Nishit!
+# Hi, I'm Nishit!
 
-# 💫 About Me:
+## 💫 About Me:
 🚀 Flutter specialist for cross-platform development<br>💻 I'm also proficient in full-stack, ensuring seamless Android/iOS apps<br>🔄 An agile expert, managing release cycles<br>🛠 I conduct code reviews to maintain quality<br>📈 I'm committed to continuous learning & innovation
 
 
